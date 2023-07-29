@@ -3,13 +3,13 @@
   import MyHeader from './components/MyHeader.vue'
   import MyFooter from './components/MyFooter.vue'
   import GithubCnx from './components/GithubCnx.vue'
-  import TestNav from './components/TestNav.vue'
+  import NavBar from './components/NavBar.vue'
 </script>
 
 <template>
   <div id="main">
     <MyHeader />
-    <TestNav />
+    <NavBar />
     <GithubCnx />
     <RouterView />
     <MyFooter />
