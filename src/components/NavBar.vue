@@ -53,7 +53,6 @@
   width: 100vw;
 }
 nav {
-  border: 1px solid pink;
   width: 100%;
   display: flex;
   flex-direction: row;
@@ -73,7 +72,6 @@ nav {
   }
 }
 .halfmenu {
-  border: 1px solid green;
   justify-content: space-around;
   display: flex;
   flex-direction: row;
